@@ -1,4 +1,4 @@
-module hello
+module github.com/vaibhavjain01/microone
 
 go 1.15
 
